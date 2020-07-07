@@ -3,11 +3,39 @@
     height: 100px;
 }
 .sing-in-button{
-    background-color: rgb(14, 190, 14);
+    background-color: #218573;
+    background-color: ;
     color: white;
     border: none;
     border-radius: 20px;
     cursor: pointer;
     width: 100px;
     height: 50px;
+}
+.container1-images-width{
+    width: 500px;
+    height: 400px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.get-started-button{
+    background-color: #218573;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+}
+.header-font-size{
+    font-size: 70px;
+}
+.header-font-color1{
+    color: black;
+}
+.header-font-color2{
+    color: #218573;
+}
+.background-images{
+    background-color: rgb(238, 248, 243);
 }
