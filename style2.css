@@ -1,3 +1,6 @@
+.header{
+    width: 1400px;
+}
 .logo-size{
     width: 300px;
     height: 100px;
@@ -12,15 +15,11 @@
     width: 100px;
     height: 50px;
 }
-.container1-div-width{
-    padding-left: 30px;
-}
 .container1-images-width{
     width: 500px;
     height: 400px;
     padding-top: 20px;
     padding-bottom: 40px;
-    margin-left: 20px;
 }
 .get-started-button{
     background-color: #21B573;
@@ -45,6 +44,31 @@
 }
 .background-images{
     background-color: #F0FFF0;
+
+}
+.course-li-bold{
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+.footer{
+    background-color: #282531;
+    height: 300px;
+    position: relative;
+    color: white;
+}
+
+.list-items ul li{
+    list-style-type: none;
+    color: white;
+}
+.margin-gaph{
+    margin-top: 50px;
+}
+.footer p{
+    text-align: center;
+    padding-top: 20px;
+
 }
 .images-box{
     background-color: #F8FFFB;
@@ -63,60 +87,5 @@
 }
 .margin-gaph{
     margin-top: 50px;
-}
-.card{
-    border: none;
-    border-radius: 5px;
-    box-shadow: 5px 5px 10px lightgray;
-}
-.card-center1{
-    margin-left: 20px;
-}
-.card-center2{
-    margin-right: 20px;
-}
-.header-center h3{
-    text-align: center;
-    margin-bottom: 50px;
-}
-.container{
-    margin-bottom: 50px;
-}
-.buy-course-button{
-    background-color: #21B573;
-    color: white;
-    border: none;
-    border-radius: 15px;
-    cursor: pointer;
-    width: 130px;
-    height: 35px;
-}
-.img-size-test img{
-    width: 120px;
-    height: 120px;
-    margin-left: 220px;
-}
-.course-li-bold{
-    font-weight: bold;
-    color: white;
-    font-size: 20px;
-}
-.footer{
-    background-color: #282531;
-    height: 300px;
-    position: relative;
-    color: white;
-}
-.list-items ul li{
-    list-style-type: none;
-    color: white;
-}
-.margin-gaph{
-    margin-top: 50px;
-}
-.footer p{
-    text-align: center;
-    
-
 }
 
