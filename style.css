@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 50px;
+}
 .logo-size{
     width: 300px;
     height: 100px;
@@ -79,9 +82,7 @@
     text-align: center;
     margin-bottom: 50px;
 }
-.container{
-    margin-bottom: 50px;
-}
+
 .buy-course-button{
     background-color: #21B573;
     color: white;
@@ -91,10 +92,11 @@
     width: 130px;
     height: 35px;
 }
-.img-size-test img{
+.img-size-testimonial img{
     width: 120px;
     height: 120px;
     margin-left: 220px;
+    margin-bottom: 20px;
 }
 .icon-img-size{
     height: 25px;
@@ -107,7 +109,7 @@
 }
 .footer{
     background-color: #282531;
-    height: 300px;
+    height: 330px;
     position: relative;
     color: white;
     background-position: center;
@@ -123,7 +125,12 @@
 }
 .footer p{
     text-align: center;
-    
+    padding-top: 10px;  
 
+}
+@media (max-width: 920px) {
+    .footer{
+        height: 500px;
+    }
 }
 
