@@ -110,6 +110,9 @@
     height: 300px;
     position: relative;
     color: white;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .list-items ul li{
     list-style-type: none;
